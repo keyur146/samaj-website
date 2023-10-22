@@ -1,0 +1,19 @@
+.foot{
+    background: rgb(150, 40, 40);
+    font-weight: 500;
+}
+
+.bb{
+    border-color: rgb(233, 200, 160) !important;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.social-links a {
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+}

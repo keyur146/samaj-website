@@ -1,0 +1,47 @@
+.box{
+    margin: 20px 0px;
+    padding: 5px;
+    display: grid;
+    place-items: center;
+}
+
+.box h4 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+    font-size: large;
+    font-weight: 500;
+    color: maroon;
+}
+
+.box img {
+    height: 200px;
+    width: 150px;
+    background-size: cover;
+}
+
+.box p{
+    font-weight: 500;
+    font-size: medium;
+}
+
+.container h1{
+    color: maroon;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.btn {
+    background-color: maroon;
+    color: white;
+    border: 1px solid maroon;
+    border-radius: 12px;
+    font-weight: 500 ;
+    width: auto;
+    padding: 10px;
+    transition: all 0.6s;
+}
+
+.btn:hover{
+    background-color: white;
+    color: maroon;
+}
